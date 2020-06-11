@@ -1,0 +1,22 @@
+PODS:
+  - Masonry (1.0.2)
+  - Realm (2.8.3):
+    - Realm/Headers (= 2.8.3)
+  - Realm/Headers (2.8.3)
+
+DEPENDENCIES:
+  - Masonry
+  - Realm (~> 2.8.1)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - Realm
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  Realm: 3601ef091c8c499a31101d8563b991e75546cdce
+
+PODFILE CHECKSUM: 3a1c4f98d827ddbdd95cdbb3dba278bceb55fa2d
+
+COCOAPODS: 1.9.1
